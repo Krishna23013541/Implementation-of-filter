@@ -1,4 +1,9 @@
-# Implementation-of-filter
+# **Ex. No: 05**
+# **Record-Implementation of Filters**
+
+# **Name: KRISHNA KUMAR R**   
+# **Reg. No: 212223230107**
+
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
